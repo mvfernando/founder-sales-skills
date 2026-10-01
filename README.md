@@ -56,6 +56,10 @@ Read the full story behind these skills: [I Built the Product. Then I Had to Lea
 
 Methods here are adaptations, not copies. Acknowledgments: Sam Nelson, *Cold Calling Essentials* (HubSpot); *The 30-Minute Battlecard Builder* (HubSpot / The Science of Scaling); Mark Roberge, *The Revenue Leader’s Guide to Scaling* (*The Science of Scaling*). The [full story](https://mvfernando.me/writing/founder-sales-skills-16-ai-skills) discusses these influences in context. Numbers and decisions in your business require your own evidence and approval.
 
-## License
+## License & attribution
 
-CC BY 4.0. See [LICENSE](LICENSE) for the legal code. Please credit Elio Fernandes and link to this repository when sharing or adapting.
+© 2026 Elio Fernandes. These skills are licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). You are free to use, adapt and share them — including commercially — as long as you give credit.
+
+**How to credit:** "Based on *Founder Sales Skills* by Elio Fernandes — https://github.com/mvfernando/founder-sales-skills" and indicate if you made changes.
+
+The story behind these skills: [I Built the Product. Then I Had to Learn How to Sell It.](https://mvfernando.me/writing/founder-sales-skills-16-ai-skills) — the article itself is not covered by this license.
